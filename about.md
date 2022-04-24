@@ -3,6 +3,9 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+<h2 > Where can you find me online?</h2>
+<p>
+<a href="https://twitter.com/rachelwritecode"><i class="fa-brands fa-twitter fa-2xl"></i></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rachelwritingcode"><i class="fa-brands fa-github fa-2xl"></i></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rachelwritingcode/"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+</p>
