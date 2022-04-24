@@ -10,7 +10,7 @@ From the Day 1 exercise, I had to jog my memory on Template Literals, Events and
 
 ### Template Literals
 
-- Template literals are literals delimited with backtick `(`)` characters. 
+- Template literals are literals delimited with backtick (`) characters. 
 
 In the exercise we see the querySelector populated with ${e.keyCode} a template literal expression.
 
