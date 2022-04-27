@@ -6,7 +6,7 @@ author: Rachel Wang
 
 #### ⚡ Day 1 Code Snippets from #JavaScript30, You Ready? Here we go!
 
-From the Day 1 exercise, I had to jog my memory on Template Literals, Events and Array object. The following snippets are examples from the exercise as well as explanations I found on the web.
+From the Day 1 exercise, topics that I had to revisit were, Template Literals, Events and Array object. The following snippets are examples from the exercise as well as explanations I found on the web.
 
 ### Template Literals
 
