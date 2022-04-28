@@ -12,6 +12,11 @@ project_entries:
     desc: Entries for the JavaScript 30 Challenge 
     highlight: WIP
 
+  - title: Golang Book & Movie Review APIs 
+    url: BookOrMovieAPI
+    desc: Gathering book and movie reviews to recommend which one to read or watch first.
+    highlight: WIP
+
 #   - title: Project 2
 #     url: overview-post
 #     desc: Moonwalk also has horizontal list (used in header and footer)
