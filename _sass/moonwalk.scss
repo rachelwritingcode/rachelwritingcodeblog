@@ -66,7 +66,7 @@ img {
 html {
     --bg: #FFF;
     --bg-secondary: #f8f8f8;
-    --headings: #000;
+    --headings: black;
     --text: #333;
     --links: blue;
     --highlight: #FFECB2; // light yellow
@@ -75,6 +75,16 @@ html {
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
+
+  h1{
+    color:goldenrod;
+  }
+
+  .card{
+    border: 3px goldenrod solid;
+    background-color: #1f242A;
+  }
+
   html, body  {
       --headings: #ffffff;
       --links: #ffd60a;

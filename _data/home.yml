@@ -9,7 +9,7 @@ project_entries:
 
   - title: JavaScript 30 
     url: JavaScript30
-    desc: Entries for the JavaScript 30 Challenge 
+    desc: Powering up my JavaScript with the JavaScript 30 Challenge 
     highlight: WIP
 
   - title: Golang Book & Movie Review APIs 
@@ -17,10 +17,11 @@ project_entries:
     desc: Gathering book and movie reviews to recommend which one to read or watch first.
     highlight: WIP
 
-#   - title: Project 2
-#     url: overview-post
-#     desc: Moonwalk also has horizontal list (used in header and footer)
-#     highlight: WIP
+  # - title: Gophercises Exercises
+  #   url: 
+  #   desc: Learning more about Golang with bite sized projects
+  #   highlight: WIP
+
 
 footer_entries:
   - title: twitter
