@@ -208,3 +208,42 @@ p code, li code {
     color: var(--links);
   }
 }
+
+
+// Text typing animation
+// Credits to https://codepen.io/denic/pen/GRoOxbM
+.wrapper {
+  height: 100px;
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+}
+
+.typing {
+  width: 28ch;
+  animation: typing 3s steps(28), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-size: 1.5em;
+  font-family: 'VT323', monospace;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .typing{
+    font-size: 20px;
+  }
+}
