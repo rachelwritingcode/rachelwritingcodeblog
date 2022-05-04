@@ -7,9 +7,7 @@ layout: home
 </div>
 <ul> 
     <li>🇨🇦 Software developer based in Toronto, Ontario</li>
-    <li>🗒️ Blog about software and sometimes cyber security</li>
+    <li>🗒️ Blog about Software and sometimes Cyber Security</li>
     <li>👩🏻‍🏫 Teach with the non-profit <a href="https://carpentries.org/">@thecarpentries</a></li>
     <li>🔧 Write Golang, Python, Java & JavaScript</li>
-    <li>🔥 Powering up JavaScript skills with the <a href="https://javascript30.com/">#JavaScript30</a> Challenge.</li>
-    <li>⚡ Building Golang projects with <a href="https://gophercises.com/"> Gophercises </a> </li>
 </ul>

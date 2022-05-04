@@ -1,15 +1,26 @@
 navbar_entries:
-  - title: about
-    url: about
 
   - title: blog
     url: blog
 
+  - title: talks
+    url: talks
+  
+  - title: twitter
+    url: https://twitter.com/rachelwritecode
+
+  - title: github
+    url: https://github.com/rachelwritingcode
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/rachelwritingcode/
+
+
 project_entries:
 
-  - title: JavaScript 30 
+  - title: "#JavaScript30 Challenge" 
     url: JavaScript30
-    desc: Powering up my JavaScript with the JavaScript 30 Challenge 
+    desc: Powering up JavaScript skills
     highlight: WIP
 
   - title: Golang Book & Movie Review APIs 
@@ -23,15 +34,15 @@ project_entries:
   #   highlight: WIP
 
 
-footer_entries:
-  - title: twitter
-    url: https://twitter.com/rachelwritecode
+# footer_entries:
+  # - title: twitter
+  #   url: https://twitter.com/rachelwritecode
 
-  - title: github
-    url: https://github.com/rachelwritingcode
+  # - title: github
+  #   url: https://github.com/rachelwritingcode
 
-  - title: linkedin
-    url: https://www.linkedin.com/in/rachelwritingcode/
+  # - title: linkedin
+  #   url: https://www.linkedin.com/in/rachelwritingcode/
 
 # misc_entries:
 #   - title: this is an example vertical list
