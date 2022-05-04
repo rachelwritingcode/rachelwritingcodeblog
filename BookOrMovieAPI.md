@@ -57,7 +57,7 @@ Learn more about the following:
 Example Query
 
 ```
-GET http://localhost:8080/getbook?title=klara%20and%20the%20sun
+GET http://localhost:8080/getbook?title=the%20hobbit
 ```
 - The `/getbook` endpoint will provide information about the queried book.
 
