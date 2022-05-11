@@ -25,7 +25,7 @@ project_entries:
     highlight: WIP
 
   - title: Gophercises Exercises
-    url: 
+    url: https://github.com/rachelwritingcode/Gophercises
     desc: Learning more about Golang with bite sized projects
     highlight: WIP
 
