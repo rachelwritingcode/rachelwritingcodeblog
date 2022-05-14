@@ -18,7 +18,6 @@ navbar_entries:
 
 project_entries:
 
-
   - title: Golang Book & Movie Review APIs 
     url: BookOrMovieAPI
     desc: Gathering book and movie reviews to recommend which one to read or watch first.

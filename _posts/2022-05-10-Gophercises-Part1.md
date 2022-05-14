@@ -63,7 +63,7 @@ In my quest for answers about testing, I also came across a great episode of Go 
 
 Depending on industry, in some places, testing code can be mission critical. I can imagine if your applications and systems are working with financial transactions or highly sensitive data, testing must be incredibly important. I'm going to continue hacking away at the second part of the exercise 1. I'm currently wrapping my head around goroutines and channels as I try to figure out how to keep track of user input while also keeping track of a timer. I'll talk about my findings and solution in a future post. 
 
-Ciao! 👋
+Cheers! 👋
 
 
 
