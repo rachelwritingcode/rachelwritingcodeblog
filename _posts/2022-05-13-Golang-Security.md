@@ -12,7 +12,7 @@ A key report that drove my research was written by Intezar Labs, which you can f
 
 <br>
 
-Intezar labs, reports that Go malware will continue to increase. Malware written in Go is elusive to Antivirus programs and cyber security researchers find it challenging to analyze. Google built Go for the cloud, and as a result, attacks in the cloud are predicted to increase as more assets are stored in the cloud. I have a list of references I used in my presentation slides, you can find a link to them [here](https://docs.google.com/presentation/d/1vMoJk-ybBnkJ7ATxASoPPo734Hw8i3n-sfLdbZQB6Ac/edit?usp=sharing). You'll also find that I summarize the key points of Go malware and provide my own insights using the Lockleed Martin cyber kill chain.  
+Intezar labs, reports that Go malware will continue to increase. Malware written in Go is elusive to Antivirus programs and cyber security researchers find it challenging to analyze. Google built Go for the cloud, and as a result, attacks in the cloud are predicted to increase as more assets are stored there. I have a list of research references I used in my presentation slides, you can find a link to them [here](https://docs.google.com/presentation/d/1vMoJk-ybBnkJ7ATxASoPPo734Hw8i3n-sfLdbZQB6Ac/edit?usp=sharing). You'll also find that I summarize the key points of Go malware and provide my own insights on how to mitigate risk, using the Lockleed Martin cyber kill chain.  
 
 <br>
 
