@@ -8,6 +8,8 @@ author: Rachel Wang
 
 <a href="https://docs.google.com/presentation/d/1vMoJk-ybBnkJ7ATxASoPPo734Hw8i3n-sfLdbZQB6Ac/edit?usp=sharing]">![](/images/golang_malware.png)</a>
 
+<br>
+
 I thought I'd write a different flavour of blog post today and share my experience presenting about Golang malware in my cyber security class. In recent years, all the reasons why developers love Go are the same reasons why threat actors choose Go to write malware. The efficiency of the language, the ability to target all operating systems and the networking tools available in Go, make it a favourite amongst malware developers. We've seen all sorts of malware written in Go including ransomware, RATs and backdoors. What brought this issue to my attention was this [news article](https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/) about the "2,000% increase of new malware written in Go over the past few years". I thought to myself, "that's wild! 2000%?! What is going on with Golang and malware"? Before 2019, malware written in Go was a "rare occurence".
 
 <br>
