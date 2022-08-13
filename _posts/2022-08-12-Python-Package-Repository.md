@@ -1,5 +1,5 @@
 ---
-title: Python Package Repositories & Supply Chain Attacks 
+title: Python Package Respository & Supply Chain Attacks 
 layout: post
 author: Rachel Wang
 ---
