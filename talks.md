@@ -5,6 +5,8 @@ title: Talks
 
 ## Workshops
 
+🎉 [Cyber Aegis: Python for Cyber Security Workshop Series 2022](https://docs.google.com/presentation/d/1j6Q088dfEGe_TAAWxXOZOV22O1fjRAbZY1gd3ncL-1s/edit?usp=sharing)
+
 🎉 [Cyber Aegis Workshop 2022: Intro to Burp Suite & Web Exploitation](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
 
 🎉 Cyber Aegis November HackNight 2021: Intro to Burp Suite & Web Exploitation
