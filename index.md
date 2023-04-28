@@ -13,4 +13,5 @@ layout: home
     <li>🅰️ Learning Angular </li>
     <li>👩🏻‍🏫 Teach with the non-profit <a href="https://carpentries.org/">@thecarpentries</a></li>
     <li>🔧 Write Golang, Python, Java & JavaScript</li>
+    <li> 🐝 Always learning something new </li>
 </ul>
