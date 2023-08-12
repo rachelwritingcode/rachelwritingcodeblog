@@ -6,9 +6,6 @@ navbar_entries:
   - title: talks
     url: talks
   
-  - title: twitter
-    url: https://twitter.com/rachelwritecode
-
   - title: github
     url: https://github.com/rachelwritingcode
 
