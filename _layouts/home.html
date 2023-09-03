@@ -18,6 +18,7 @@ layout: default
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
+  <div class="dashed"></div>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
 
@@ -28,6 +29,7 @@ layout: default
 
 {% if site.theme_config.show_blog == true %}
   <h2>{{ site.theme_config.home.title_blog }}</h2>
+  <div class="dashed"></div>
   {% include post_list.html %}
 {% endif %}
 
@@ -35,7 +37,6 @@ layout: default
   <h2>{{ site.theme_config.home.title_old_projects }}</h2>
   {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
-
 
 {% if site.theme_config.show_footer == true %}
   <footer>

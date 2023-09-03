@@ -8,7 +8,7 @@ permalink: /:slug
 favicon: "" # relative path to site's favicon
 
 twitter:
-    username: rachelwritecode# update or delete this
+    username: rachelwritecode
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk

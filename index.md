@@ -2,15 +2,26 @@
 layout: home
 ---
 
-<div class="wrapper">
-<h1 class="typing"> > Hi! Welcome to my blog!</h1>
-</div>
-
-<ul> 
-    <div id="whoami">~$ whoami</div>
-    <li>🇨🇦 Software developer based in Toronto, Ontario</li>
-    <li> 🐝 MSc Computer Science Student @ Georgia Tech </li>
-    <li>🗒️ Blog about Software and Technology</li>
-    <li>👩🏻‍🏫 Teach with the non-profit <a href="https://carpentries.org/">@thecarpentries</a></li>
-    <li>🔧 Write Golang, Python, Java & JavaScript</li>
-</ul>
+<link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+<link rel="stylesheet" href="styles/index.processed.css">
+<div class="terminal">
+    <div class="terminal__task-bar"> 
+        <span class="terminal__circle terminal__circle--red"></span> 
+        <span class="terminal__circle terminal__circle--yellow"></span> 
+        <span class="terminal__circle terminal__circle--green"></span>
+    </div>
+<div class="terminal__window">
+<p class="terminal__prompt">
+<span class="terminal__prompt--typing">
+    <span class="terminal__prompt terminal__prompt--checkout"></span>$whoami
+</span>
+</p>
+<p class="terminal__prompt terminal__prompt--checkout">Software Developer<span class="terminal__window--highlight"></span></p>
+<p class="terminal__prompt terminal__prompt--checkout">Computer Science Grad Student @ <a href="https://www.cc.gatech.edu/">Georgia Tech</a> <span class="terminal__window--highlight"></span></p>
+<p class="terminal__prompt terminal__prompt--show-contact">
+    <span class="terminal__prompt--typing"><span class="cover cover--show-contact"></span>$ls tech stack
+    </span>
+</p>
+<p class="terminal__prompt terminal__prompt--mail"><span class="terminal__window--highlight"> Python, Java, Go, C,  JavaScipt</span>
+</p>
+</div> 
