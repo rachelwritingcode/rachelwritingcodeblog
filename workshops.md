@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talks
+title: 
 ---
 
 ## Workshops

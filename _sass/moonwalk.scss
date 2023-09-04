@@ -87,9 +87,21 @@ html {
   border: 3px #56bd5f solid;
 }
 
+.about_me a{
+  font-weight: bold;
+  color:#13a11f;
+}
 
+#hello{
+  font-weight: bold;
+}
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
+
+  .about_me a{
+    font-weight: bold;
+    color:goldenrod;
+  }
 
   #top-links li a{
     color:white;
