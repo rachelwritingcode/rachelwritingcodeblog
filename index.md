@@ -19,6 +19,6 @@ layout: home
     <span class="terminal__prompt--typing"><span class="cover cover--show-contact"></span>$ls tech stack
     </span>
 </p>
-<p class="terminal__prompt terminal__prompt--mail"><span class="terminal__window--highlight"> Python, Java, Go, C,  JavaScipt</span>
+<p class="terminal__prompt terminal__prompt--mail"><span class="terminal__window--highlight"> Python, Java, Go &  JavaScipt</span>
 </p>
 </div> 

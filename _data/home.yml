@@ -1,10 +1,13 @@
 navbar_entries:
 
+  - title: about
+    url: about
+
   - title: blog
     url: blog
 
-  - title: talks
-    url: talks
+  - title: workshops
+    url: workshops
   
   - title: github
     url: https://github.com/rachelwritingcode
@@ -24,7 +27,6 @@ project_entries:
     url: https://github.com/rachelwritingcode/Gophercises
     desc: Learning more about Golang with bite sized projects
     highlight: WIP
-
 
 # footer_entries:
   # - title: twitter

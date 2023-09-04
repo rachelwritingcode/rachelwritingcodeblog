@@ -1,0 +1,18 @@
+---
+layout: post
+title: about
+---
+<div class="about_me">
+    <span id="hello">01001000 01100101 01101100 01101100 01101111 or Hello! 👋🏻 <br></span>
+    <ul>
+        <li> My name is Rachel Wang, I am a software developer based in Toronto, Canada. <br>
+        </li>
+        <li> I currently develop software solutions for projects in <a href="https://en.wikipedia.org/wiki/GLAM_(cultural_heritage)">GLAM.</a>  </li>
+        <li> I am a graduate student at <a href="https://www.cc.gatech.edu/">Georgia Institute of Technology</a> studying Computer Science. <br>
+        </li>
+        <li> My graduate coursework focuses on <strong>optimizing and securing</strong> computing systems. </li>
+        <li> I care about <strong>information system resilience</strong> and write about <strong>software and security.</strong><br></li>
+        <li> Sometimes I teach technology skills, check out some of my previous workshops <a href="/workshops"> here.</a><br></li>
+    </ul>
+</div>
+ 
