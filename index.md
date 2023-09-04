@@ -11,9 +11,7 @@ layout: home
     </div>
 <div class="terminal__window">
 <p class="terminal__prompt">
-<span class="terminal__prompt--typing">
-    <span class="terminal__prompt terminal__prompt--checkout"></span>$whoami
-</span>
+<span class="terminal__prompt--typing">$whoami</span>
 </p>
 <p class="terminal__prompt terminal__prompt--checkout">Software Developer<span class="terminal__window--highlight"></span></p>
 <p class="terminal__prompt terminal__prompt--checkout">Computer Science Grad Student @ <a href="https://www.cc.gatech.edu/">Georgia Tech</a> <span class="terminal__window--highlight"></span></p>

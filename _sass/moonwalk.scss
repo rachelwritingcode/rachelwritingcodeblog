@@ -75,13 +75,18 @@ html {
 }
 
 #top-links li a{
-  color:#51e05d;
+  color: black;
   font-weight: bold;
 }
 #top-links li a:hover{
-  color:black;
+  color:#51e05d;
   font-weight: bold;
 }
+
+.card{
+  border: 3px #56bd5f solid;
+}
+
 
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -261,13 +266,13 @@ font-family:"Source Code Pro",Monaco,"Courier New",monospace;font-weight:400;fon
 .terminal__prompt--checkout,
 .terminal__prompt--mail,
 .terminal__prompt--show-contact{opacity:0}
-.terminal__prompt--checkout{animation:show-checkout 16s infinite}
-.terminal__prompt--show-contact{animation:show-show-contact 16s infinite}
-.terminal__prompt--mail{animation:show-mail 16s infinite}
+.terminal__prompt--checkout{animation:show-checkout 12s infinite}
+.terminal__prompt--show-contact{animation:show-show-contact 12s infinite}
+.terminal__prompt--mail{animation:show-mail 12s infinite}
 .terminal__prompt--typing{position:relative}
 .terminal__prompt--typing .cover{position:absolute;z-index:1;top:0;right:0;display:inline-block;box-sizing:border-box;height:100%;background:#000;border-left:1px solid #fff}
-.terminal__prompt--typing .cover--gimme-dev{animation:typing-gimme-dev 16s steps(19,end) infinite}
-.terminal__prompt--typing .cover--show-contact{animation:typing-show-contact 16s steps(19,end) infinite}@keyframes typing-gimme-dev{0%{width:100%;opacity:1}12%{width:0}15%{opacity:1}16%{opacity:0}100%{opacity:0}}@keyframes typing-show-contact{0%,35%{width:100%}100%,47%{width:0}48%{opacity:1}49%{opacity:0}100%{opacity:0}}@keyframes show-checkout{0%,20%{opacity:0}100%,25%{opacity:1}}@keyframes show-mail{0%,55%{opacity:0}100%,60%{opacity:1}}
+.terminal__prompt--typing .cover--gimme-dev{animation:typing-gimme-dev 12s steps(20,end) infinite}
+.terminal__prompt--typing .cover--show-contact{animation:typing-show-contact 12s steps(20,end) infinite}@keyframes typing-gimme-dev{0%{width:100%;opacity:1}12%{width:0}15%{opacity:1}16%{opacity:0}100%{opacity:0}}@keyframes typing-show-contact{0%,35%{width:100%}100%,47%{width:0}48%{opacity:1}49%{opacity:0}100%{opacity:0}}@keyframes show-checkout{0%,20%{opacity:0}100%,25%{opacity:1}}@keyframes show-mail{0%,55%{opacity:0}100%,60%{opacity:1}}
 @keyframes show-uploaded{0%,63%{opacity:0}100%,68%{opacity:1}}@keyframes show-show-contact{0%,28%{opacity:0}100%,32%{opacity:1}}
 a{
   text-decoration:none;color:inherit
