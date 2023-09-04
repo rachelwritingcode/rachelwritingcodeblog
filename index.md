@@ -13,7 +13,7 @@ layout: home
 <p class="terminal__prompt">
 <span class="terminal__prompt--typing">$whoami</span>
 </p>
-<p class="terminal__prompt terminal__prompt--checkout">Software Developer<span class="terminal__window--highlight"></span></p>
+<p class="terminal__prompt terminal__prompt--checkout">Software Developer x Security Mindset<span class="terminal__window--highlight"></span></p>
 <p class="terminal__prompt terminal__prompt--checkout">Computer Science Grad Student @ <a href="https://www.cc.gatech.edu/">Georgia Tech</a> <span class="terminal__window--highlight"></span></p>
 <p class="terminal__prompt terminal__prompt--show-contact">
     <span class="terminal__prompt--typing"><span class="cover cover--show-contact"></span>$ls tech stack
