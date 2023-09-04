@@ -3,7 +3,6 @@ layout: post
 title: about
 ---
 <div class="about_me">
-    <span id="hello">01001000 01100101 01101100 01101100 01101111 or Hello! 👋🏻 <br></span>
     <ul>
         <li> My name is Rachel Wang, I am a software developer based in Toronto, Canada. <br>
         </li>
