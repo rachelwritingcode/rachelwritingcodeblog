@@ -73,8 +73,27 @@ html {
     --code-text: #9D174D;
     --share-text: #999;
 }
+
+#top-links li a{
+  color:#51e05d;
+  font-weight: bold;
+}
+#top-links li a:hover{
+  color:black;
+  font-weight: bold;
+}
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
+
+  #top-links li a{
+    color:white;
+    font-weight: bold;
+  }
+  #top-links li a:hover{
+    color:#51e05d;
+    font-weight: bold;
+  }
 
   h1{
     color:goldenrod;
@@ -96,6 +115,7 @@ html {
       --share-text: #C4C4C4;
   };
 }
+
 html[data-theme="dark"] { @include dark-appearance; }
 
 @media (prefers-color-scheme: dark) {

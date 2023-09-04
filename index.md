@@ -3,7 +3,6 @@ layout: home
 ---
 
 <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
-<link rel="stylesheet" href="styles/index.processed.css">
 <div class="terminal">
     <div class="terminal__task-bar"> 
         <span class="terminal__circle terminal__circle--red"></span> 
