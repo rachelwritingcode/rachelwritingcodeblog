@@ -6,7 +6,7 @@ title: about
     <ul>
         <li> My name is Rachel Wang, I am a software developer based in Toronto, Canada. <br>
         </li>
-        <li> I currently develop software solutions for projects in <a href="https://en.wikipedia.org/wiki/GLAM_(cultural_heritage)">GLAM.</a>  </li>
+        <li> I currently develop software solutions for projects in higher education. </li>
         <li> I am a graduate student at <a href="https://www.cc.gatech.edu/">Georgia Institute of Technology</a> studying Computer Science. <br>
         </li>
         <li> I write about <strong>software and security.</strong><br></li>
