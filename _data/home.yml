@@ -8,6 +8,9 @@ navbar_entries:
 
   - title: workshops
     url: workshops
+
+  - title: tech reading list
+    url: reading
   
   - title: github
     url: https://github.com/rachelwritingcode
