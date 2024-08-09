@@ -3,9 +3,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
   - title: workshops
     url: workshops
 
@@ -17,7 +14,6 @@ navbar_entries:
 
   - title: linkedin
     url: https://www.linkedin.com/in/rachelwritingcode/
-
 
 project_entries:
 
